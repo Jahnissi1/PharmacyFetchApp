@@ -1,0 +1,45 @@
+.select-user-page {
+  height: 100vh;
+  background: linear-gradient(to right, #deeefc, #c8dcf4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  max-width: 500px;
+  width: 90%;
+  text-align: center;
+}
+
+.logo-large {
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+.glass-card h2 {
+  font-size: 24px;
+  margin-bottom: 24px;
+  color: #003049;
+}
+
+.dropdown-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.select-logo {
+  height: 200px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+
+.select-logo:hover {
+  transform: scale(1.05);
+}

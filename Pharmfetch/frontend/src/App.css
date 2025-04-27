@@ -1,0 +1,16 @@
+.App,
+.SelectUser {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background: linear-gradient(120deg, #f6f9ff, #e9f2ff);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.App *,
+.SelectUser * {
+  transition: all 0.25s ease-in-out;
+}
