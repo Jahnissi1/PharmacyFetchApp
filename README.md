@@ -4,6 +4,7 @@
 PharmFetch is a full-stack pharmacy delivery platform that enables users to order **prescription and over-the-counter (OTC) medications** for home delivery. Designed with accessibility in mind, the system supports multiple user roles (customers, pharmacies, drivers, doctors, and admins) with tailored dashboards for each.  
 
 Key Features: 
+
 ✅ Role-based access control (5 user types)  
 ✅ Prescription upload & verification for secure medication orders  
 ✅ Real-time order tracking for customers and drivers  
