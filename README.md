@@ -91,4 +91,21 @@ The system uses a MySQL database with tables for users, orders, prescriptions, a
 ## Contributors 
 - Jahnissi Nwakanma  
 - Lisa Tatarnikov  
-- Dipti Kumar  
+- Dipti Kumar
+
+## 🔧 My Contributions
+
+As a backend and database developer for PharmFetch, I contributed to:
+
+   - Database Design & Implementation
+      - Designed the MySQL relational schema (10+ tables) and hosted it on Azure.
+      - Optimized queries for order tracking and user management.
+      - Implemented foreign key constraints and composite keys for data integrity.
+   - Frontend Development
+      - Built key React pages: Customer Order History, Pharmacy Order Approval, and Driver Delivery Dashboard.
+      - Integrated frontend with backend APIs for real-time order updates.
+   - Team Collaboration
+      - Worked in a 3-person team using Git for version control.
+      - Documented database schema changes and frontend workflows.
+
+
